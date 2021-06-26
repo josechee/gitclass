@@ -1,0 +1,25 @@
+/*selector de tagname: modificar a todas la eqtiquetas se identifiquen con ese nombre*/
+h1{
+    color: red;
+    font-size: 45px;
+}
+
+/*Selector universal: es el * va afectar a todos*/
+*{
+    color: green;
+}
+
+/*Selector de ID*/
+#palabra{
+    font-weight: normal;
+}
+
+/*Selector de clase*/
+.palabras{
+    font-weight: lighter;
+}
+
+.palabras2{
+    font-weight: lighter;
+    text-decoration: underline;
+}
